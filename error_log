@@ -1,0 +1,63 @@
+[03-Jul-2014 17:54:27 UTC] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open ./uploads//tmp/phpAHnqOP for reading! File does not exist.' in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php:347
+Stack trace:
+#0 /home/tammanag/public_html/sms/application/controllers/admin.php(877): PHPExcel_Reader_Excel2007->load('./uploads//tmp/...')
+#1 [internal function]: Admin->read()
+#2 /home/tammanag/public_html/sms/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/tammanag/public_html/sms/index.php(202): require_once('/home/tammanag/...')
+#4 {main}
+  thrown in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 347
+[03-Jul-2014 18:21:08 UTC] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open ./uploads//tmp/phpm6UlyR for reading! File does not exist.' in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php:347
+Stack trace:
+#0 /home/tammanag/public_html/sms/application/controllers/admin.php(877): PHPExcel_Reader_Excel2007->load('./uploads//tmp/...')
+#1 [internal function]: Admin->read()
+#2 /home/tammanag/public_html/sms/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/tammanag/public_html/sms/index.php(202): require_once('/home/tammanag/...')
+#4 {main}
+  thrown in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 347
+[03-Jul-2014 18:22:38 UTC] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open ./uploads//tmp/phpPtJ3MY for reading! File does not exist.' in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php:347
+Stack trace:
+#0 /home/tammanag/public_html/sms/application/controllers/admin.php(877): PHPExcel_Reader_Excel2007->load('./uploads//tmp/...')
+#1 [internal function]: Admin->read()
+#2 /home/tammanag/public_html/sms/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/tammanag/public_html/sms/index.php(202): require_once('/home/tammanag/...')
+#4 {main}
+  thrown in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 347
+[03-Jul-2014 18:23:52 UTC] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open ./uploads//tmp/phpqX5P7Q for reading! File does not exist.' in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php:347
+Stack trace:
+#0 /home/tammanag/public_html/sms/application/controllers/admin.php(877): PHPExcel_Reader_Excel2007->load('./uploads//tmp/...')
+#1 [internal function]: Admin->read()
+#2 /home/tammanag/public_html/sms/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/tammanag/public_html/sms/index.php(202): require_once('/home/tammanag/...')
+#4 {main}
+  thrown in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 347
+[03-Jul-2014 18:30:51 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[03-Jul-2014 18:38:49 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[03-Jul-2014 18:40:29 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[03-Jul-2014 18:43:40 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[03-Jul-2014 18:46:21 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 05:09:09 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 05:12:06 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 05:19:57 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 05:49:38 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 05:52:06 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 05:54:32 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 05:57:07 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 06:05:59 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 06:06:10 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 06:12:16 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 11:07:41 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 11:12:47 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 11:14:11 UTC] PHP Parse error:  syntax error, unexpected '$zipClass' (T_VARIABLE), expecting identifier (T_STRING) in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 11:17:51 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[04-Jul-2014 17:19:14 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/tammanag/public_html/sms/application/third_party/PHPExcel/Reader/Excel2007.php on line 360
+[06-Jul-2014 11:18:36 UTC] PHP Fatal error:  Call to a member function model() on a non-object in /home/tammanag/public_html/sms/application/controllers/admin.php on line 26
+[06-Jul-2014 11:18:45 UTC] PHP Fatal error:  Call to a member function model() on a non-object in /home/tammanag/public_html/sms/application/controllers/admin.php on line 26
+[06-Jul-2014 11:18:48 UTC] PHP Fatal error:  Call to a member function model() on a non-object in /home/tammanag/public_html/sms/application/controllers/admin.php on line 26
+[06-Jul-2014 12:22:32 UTC] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'You tried to set a sheet active by the out of bounds index: 0. The actual number of sheets is 0.' in /home/tammanag/public_html/sms/application/third_party/PHPExcel.php:688
+Stack trace:
+#0 /home/tammanag/public_html/sms/application/controllers/admin.php(885): PHPExcel->setActiveSheetIndex(0)
+#1 [internal function]: Admin->read()
+#2 /home/tammanag/public_html/sms/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/tammanag/public_html/sms/index.php(202): require_once('/home/tammanag/...')
+#4 {main}
+  thrown in /home/tammanag/public_html/sms/application/third_party/PHPExcel.php on line 688
